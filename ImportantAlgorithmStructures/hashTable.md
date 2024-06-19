@@ -33,4 +33,16 @@ Summary:
 + The function uses the index of the arrays as labels.
 + Arrays provided fixed-time access
 
+## Hash Function
++ "same input = same output" because index uses different slot. For instance "apple,3" This index is certain. I look at different times and these indexes are the same so this is still "apple,3".
++ "different input = different output" because I set it to "apple,3" and "pear,7" so apple can't take any other value than 3, and pear can't take any other value than 7.
++ The size of the array must be at the limit of the output of the hash table to give an example if "apple,3", my array must have at least 4 indexes(0,1,2,3).
+> [!WARNING]
+> Unfortunately, it does not always give different outputs for the same input.
+> This is also called "collision".
+
+## Collision
+
+
+
 
