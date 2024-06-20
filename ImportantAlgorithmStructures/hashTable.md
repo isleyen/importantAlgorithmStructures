@@ -42,6 +42,12 @@ Summary:
 > This is also called "collision".
 
 ## Collision
+![341477619-c271f4c5-b57d-4f8a-9fb7-e4acaba60044](https://github.com/isleyen/importantAlgorithmStructures/assets/136992260/09c63aeb-87fd-401c-adfe-41a32b534273)
+
+![341477676-67659c3b-24b8-4a2c-a079-1d9888e128a1](https://github.com/isleyen/importantAlgorithmStructures/assets/136992260/9eaf7325-823d-40e8-9488-42556a9835fb)
+
+![341477788-41c02719-a48f-4d4f-98f4-91fede9548c1](https://github.com/isleyen/importantAlgorithmStructures/assets/136992260/674bf6f2-7f79-4c53-b3c8-b53eeec8ab30)
+
 
 
 
